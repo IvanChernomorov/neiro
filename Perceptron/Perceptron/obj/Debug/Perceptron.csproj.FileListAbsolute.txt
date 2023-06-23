@@ -1,0 +1,8 @@
+C:\Users\super\source\repos\Perceptron\Perceptron\bin\Debug\Perceptron.exe.config
+C:\Users\super\source\repos\Perceptron\Perceptron\bin\Debug\Perceptron.exe
+C:\Users\super\source\repos\Perceptron\Perceptron\bin\Debug\Perceptron.pdb
+C:\Users\super\source\repos\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.AssemblyReference.cache
+C:\Users\super\source\repos\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.SuggestedBindingRedirects.cache
+C:\Users\super\source\repos\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\Perceptron\Perceptron\obj\Debug\Perceptron.exe
+C:\Users\super\source\repos\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
